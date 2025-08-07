@@ -1,16 +1,16 @@
-## 🪐 Run Space
+## Run Space
 
 **Run Space** é um jogo em Java desenvolvido com foco em exercitar conceitos de **Programação Orientada a Objetos (POO)**. Nele, você controla um herói que percorre labirintos no espaço, coleta moedas e desvia de inimigos para completar desafios.
 
 ---
 
-### 🎮 Objetivo do Jogo
+### Objetivo do Jogo
 
 O jogador deve percorrer diferentes fases espaciais, **coletando todas as moedas espalhadas pelo labirinto**. Somente após coletar todas as moedas é possível chegar ao final da fase, retornando em seguida ao menu principal para escolher outra fase.
 
 ---
 
-### 🚀 Como funciona
+### Como funciona
 
 * O jogo começa com um **menu contendo 5 fases**.
 * As fases podem ser acessadas **em qualquer ordem**.
@@ -20,7 +20,7 @@ O jogador deve percorrer diferentes fases espaciais, **coletando todas as moedas
 
 ---
 
-### ⚠️ Desafios
+### Desafios
 
 Durante o jogo, o herói deve evitar:
 
@@ -31,7 +31,7 @@ Se o herói **encostar em qualquer inimigo ou projétil**, ele **retorna ao iní
 
 ---
 
-### 🧠 Conceitos de POO aplicados
+### Conceitos de POO aplicados
 
 O projeto foi desenvolvido com ênfase nos seguintes conceitos de Programação Orientada a Objetos:
 
@@ -41,13 +41,13 @@ O projeto foi desenvolvido com ênfase nos seguintes conceitos de Programação 
 
 ---
 
-### 🖼️ Screenshots 
+###  Screenshots 
 
 
 
 ---
 
-### 📁 Organização do Projeto
+### Organização do Projeto
 
 ```
 src/
@@ -71,14 +71,14 @@ src/
 
 ---
 
-### ✅ Requisitos
+### Requisitos
 
 * Java 8+
 * IDE (como VS Code ou IntelliJ) ou terminal com `javac/java`
 
 ---
 
-### 🏁 Como rodar
+### Como rodar
 
 1. Compile os arquivos:
 
@@ -93,9 +93,10 @@ src/
 
 ---
 
-### 👩‍💻 Desenvolvedores
+### Desenvolvedores
 
 * Ana Paula Batista (@anapbatista)
 * Italo Bresciani (@ItaloCarlosMartinsBresciani)
 * Luiz Correa (@LuizCorrei4)
+
 
